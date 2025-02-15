@@ -1,0 +1,15 @@
+﻿  main.cpp
+  Mesh.cpp
+  Shader.cpp
+  Window.cpp
+D:\proyectos VS\Visual Studio 2022\P1\Practica1\Practica1\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P1\Practica1\Practica1\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 138 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Practica1.vcxproj -> D:\proyectos VS\Visual Studio 2022\P1\Practica1\Release\Practica1.exe
