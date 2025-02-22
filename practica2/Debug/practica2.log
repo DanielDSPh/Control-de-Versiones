@@ -1,0 +1,10 @@
+﻿  practica2.cpp
+D:\proyectos VS\Visual Studio 2022\P2\practica2\practica2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P2\practica2\practica2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica2.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P2\practica2\practica2\practica2.cpp(17,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  practica2.vcxproj -> D:\proyectos VS\Visual Studio 2022\P2\practica2\Debug\practica2.exe
