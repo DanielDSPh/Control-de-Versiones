@@ -1,0 +1,23 @@
+﻿  practica3.cpp
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica3.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(229,16): warning C4018: '<': no coinciden signed/unsigned
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(271,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(271,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(271,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(271,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(271,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(273,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(273,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(273,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(273,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(273,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(369,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P3\practica3\practica3\practica3.cpp(371,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  practica3.vcxproj -> D:\proyectos VS\Visual Studio 2022\P3\practica3\Debug\practica3.exe
