@@ -1,0 +1,22 @@
+﻿  practica4_conjerarquia.cpp
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(191,16): warning C4018: '<': no coinciden signed/unsigned
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(332,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(334,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica4.vcxproj -> D:\proyectos VS\Visual Studio 2022\P4\practica4\Debug\practica4.exe
