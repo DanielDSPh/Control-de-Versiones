@@ -1,0 +1,11 @@
+﻿  practica6.cpp
+D:\proyectos VS\Visual Studio 2022\P6\practica6\practica6\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica6.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P6\practica6\practica6\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica6.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P6\practica6\practica6\practica6.cpp(405,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P6\practica6\practica6\practica6.cpp(407,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  practica6.vcxproj -> D:\proyectos VS\Visual Studio 2022\P6\practica6\Debug\practica6.exe
