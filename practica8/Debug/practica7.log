@@ -1,0 +1,10 @@
+﻿  practica7.cpp
+D:\proyectos VS\Visual Studio 2022\P7\practica7\practica7\practica7\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica7.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P7\practica7\practica7\practica7\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica7.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P7\practica7\practica7\practica7\practica7.cpp(266,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P7\practica7\practica7\practica7\practica7.cpp(268,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  practica7.vcxproj -> D:\proyectos VS\Visual Studio 2022\P7\practica7\practica7\Debug\practica7.exe

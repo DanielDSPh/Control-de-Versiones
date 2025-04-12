@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (practica7.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  Window.cpp
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(153,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(154,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(158,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(159,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(161,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(162,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\ejercicio8\Window.cpp(77,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  ejercicio8.vcxproj -> D:\proyectos VS\Visual Studio 2022\P8\Ejercicio 8\ejercicio8\Debug\ejercicio8.exe
