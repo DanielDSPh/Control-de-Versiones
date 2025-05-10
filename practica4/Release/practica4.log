@@ -1,0 +1,46 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  practica4_conjerarquia.cpp
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "practica4_conjerarquia.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(28,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(191,16): warning C4018: '<': no coinciden signed/unsigned
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(233,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         with
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         [
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:             _Ty=GLfloat
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(235,32): warning C4244:         ]
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(332,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\practica4_conjerarquia.cpp(334,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Shader.cpp
+  Sphere.cpp
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Window.cpp
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(358,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(359,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(363,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(364,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(366,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(367,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+D:\proyectos VS\Visual Studio 2022\P4\practica4\practica4\Window.cpp(96): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+  All 626 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  practica4.vcxproj -> D:\proyectos VS\Visual Studio 2022\P4\practica4\Release\practica4.exe
